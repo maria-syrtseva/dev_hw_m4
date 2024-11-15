@@ -1,5 +1,3 @@
-Task 3
-
 -- find max salary
 SELECT NAME, SALARY
 FROM worker

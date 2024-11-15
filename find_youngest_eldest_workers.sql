@@ -1,5 +1,3 @@
-Task 6
-
 -- youngest and eldest worker
 WITH Youngest AS (
     SELECT NAME, BIRTHDAY

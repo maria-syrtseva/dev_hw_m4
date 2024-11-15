@@ -1,5 +1,3 @@
-Task 4
-
 -- find max client projects
 SELECT client.NAME, COUNT(project.ID) AS PROJECT_COUNT
 FROM client

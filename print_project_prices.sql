@@ -1,5 +1,3 @@
-Task 7
-
 -- project price
 SELECT 
     project.NAME AS Project_Name, 
